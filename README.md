@@ -1,0 +1,1 @@
+ This project detects and classifies UK coins in images. It uses watershed segmentation to handle overlapping coins, a heuristic to estimate coin value, and a CNN to classify heads vs. tails. Combines OpenCV and transfer learning with minimal labeled data.
